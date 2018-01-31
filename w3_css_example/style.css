@@ -1,56 +1,20 @@
 /*styles go here*/
 
-/* p {
-  color: red;
-} */
-
 p {
-  color: #666666;
-  font-family: Helvetica, Arial, sans-serif;
+	color: #666666;
+    font-family: Helvetica, Arial, sans-serif;
 }
 
 h1 {
-  font-family: Georgia, "Times New Roman", serif;
+    font-family: Georgia, "Times New Roman", serif;
 }
 
-#container {
-  width: 95%;
-  margin: 0 auto;
+#container{
+    width: 95%;
+    margin: 0 auto;
 }
 
 #nav {
-  list-style-type: none;
-  padding: 0;
+    padding: 0;
+	  list-style-type: none;
 }
-
-#nav li {
-  /* text-decoration: none;  */
-}
-
-#nav a:link {
-    text-decoration: none;
-    color: #ffffff;
-    background-color: #98bf21;
-    font-weight: bold;
-    text-align: center;
-    display: block; 
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-{}
